@@ -1,0 +1,10 @@
+__pycache__/
+*.csv
+*.pt
+*.pkl
+*.txt
+*.parquet
+*.json
+*.csv.gz
+*.log
+*.npy
